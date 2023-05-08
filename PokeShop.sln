@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeShop.UI.MVC", "PokeShop.UI.MVC\PokeShop.UI.MVC.csproj", "{9BFF80B1-E8F5-46B3-9356-F89ABD1D15CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeShop.DATA.EF", "PokeShop.DATA.EF\PokeShop.DATA.EF.csproj", "{6571057F-D098-4EDD-AF33-6C19A3F6716B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BFF80B1-E8F5-46B3-9356-F89ABD1D15CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFF80B1-E8F5-46B3-9356-F89ABD1D15CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFF80B1-E8F5-46B3-9356-F89ABD1D15CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFF80B1-E8F5-46B3-9356-F89ABD1D15CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6571057F-D098-4EDD-AF33-6C19A3F6716B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6571057F-D098-4EDD-AF33-6C19A3F6716B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6571057F-D098-4EDD-AF33-6C19A3F6716B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6571057F-D098-4EDD-AF33-6C19A3F6716B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA40F34-E8D8-49AD-A81F-A77464B3ADC8}
+	EndGlobalSection
+EndGlobal
